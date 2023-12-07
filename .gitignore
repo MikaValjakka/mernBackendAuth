@@ -1,0 +1,32 @@
+# Dependency directories
+node_modules/
+yarn-error.log
+.pnp/
+.pnp.js
+
+# Optional: Yarn 2 files
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.yarnrc
+.yarn-integrity
+
+# Build directories
+/dist/
+
+# Environment variables file
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# User-specific files
+.DS_Store
+Thumbs.db
